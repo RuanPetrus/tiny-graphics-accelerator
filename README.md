@@ -5,7 +5,7 @@ Was created to be used with a embedded RISC-V processor and implemented in a FPG
 # Compilation
 The project simulation and tests can be compiled in `linux` using `verilator` v5.034 and `make`
 ```sh
-make sim
+make
 ```
 
 # Software Simulation
