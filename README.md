@@ -19,6 +19,8 @@ You can run then individualy with
 ```
 The object can be moved with the keys `W` `A` `S` `D` `Q` `E` `U` `I`.
 
+![Cup Simulation](images/cup-rotation.gif)
+
 # Tests
 Tests can be compiled with
 ```sh
