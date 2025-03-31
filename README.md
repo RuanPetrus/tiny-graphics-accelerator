@@ -1,5 +1,5 @@
 # Tiny Graphics Accelerator
-Design to be use as a standlone 3D graphics accelerator. 
+Design to be use as a standalone 3D graphics accelerator. 
 Was created to be used with a embedded RISC-V processor and implemented in a FPGA.
 
 
